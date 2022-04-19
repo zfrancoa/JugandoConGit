@@ -46,6 +46,7 @@ def contruir_tablero(N, game):
 # list7 = [[0, 0],[1, 1],[2, 2]]
 # list8 = [[2, 0],[1, 1],[0, 2]]
 
+#comentario para hacer el pull a nuestro repositorio local.
 
 def who_win(game):
     posibilidades = [
