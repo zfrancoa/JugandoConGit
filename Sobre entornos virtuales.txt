@@ -1,0 +1,11 @@
+Para crear un entrono virtual: python -m venv nombre
+
+
+Una vez creado el entorno virtual, podrás activarlo.
+En Windows, ejecuta:
+nombre\Scripts\activate.bat
+
+
+
+Para desactivarlo:
+deactivate

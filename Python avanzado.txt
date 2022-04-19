@@ -1,0 +1,19 @@
+Modulo 1: Nivel Avanzado I
+fiber_manual_record
+Unidad 1: Unicode and byte strings.
+fiber_manual_record
+Unidad 2: Delegación – Sobrecarga de operadores y nuevo estilo.
+fiber_manual_record
+Unidad 3: Manipulación de atributos.
+fiber_manual_record
+Unidad 4: Decoradores.
+expand_more
+Modulo 2: Nivel Avanzado II
+fiber_manual_record
+Unidad 1: Metaclases.
+fiber_manual_record
+Unidad 2: Patrones de desarrollo.
+fiber_manual_record
+Unidad 3: XML y JSON.
+fiber_manual_record
+Unidad 4: Socket y visualización de datos.
