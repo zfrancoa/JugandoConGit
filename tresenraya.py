@@ -25,7 +25,7 @@ def contruir_tablero(N, game):
     return 0
 
      
-   
+#COMENTARIO PARA HACER UN CAMBIO EN UNA RAMA NUEVA, PARA PROBAR.
 
 #comentario en  rama main, para probar
 
