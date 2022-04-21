@@ -27,6 +27,7 @@ def contruir_tablero(N, game):
      
    
 
+#comentario en  rama main, para probar
 
 # tamaño = int(input("Elige el valor de N para la proporción(NxN) del tablero de juego: "))
 # contruir_tablero(tamaño, game)
