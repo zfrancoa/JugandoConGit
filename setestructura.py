@@ -19,3 +19,7 @@ print(repetidos2)
 
 
 
+#Agregando un comentario en la rqma disenyador2, en el archivo setestructura.py
+
+
+
