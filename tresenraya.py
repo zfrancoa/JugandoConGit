@@ -23,7 +23,7 @@ def contruir_tablero(N, game):
         print("  -----------") 
 
     return 0
-
+#anano
      
 #COMENTARIO PARA HACER UN CAMBIO EN UNA RAMA NUEVA, PARA PROBAR.
 
